@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etFirst" type="id" />
+    <item name="etSecond" type="id" />
+    <item name="etThird" type="id" />
+</resources>
